@@ -1,0 +1,100 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "language": "en",
+    "weight": 5,
+    "tags": ["large models", "ai products", "research"]
+  },
+  {
+    "name": "OpenAI Blog",
+    "url": "https://openai.com/blog/rss.xml",
+    "language": "en",
+    "weight": 5,
+    "tags": ["large models", "research"]
+  },
+  {
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "language": "en",
+    "weight": 4,
+    "tags": ["ai products", "startup", "industry"]
+  },
+  {
+    "name": "The Verge AI",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "language": "en",
+    "weight": 4,
+    "tags": ["ai products", "industry"]
+  },
+  {
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "language": "en",
+    "weight": 4,
+    "tags": ["enterprise ai", "ai infrastructure"]
+  },
+  {
+    "name": "MIT Technology Review AI",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    "language": "en",
+    "weight": 4,
+    "tags": ["research", "industry"]
+  },
+  {
+    "name": "Ars Technica AI",
+    "url": "https://arstechnica.com/ai/feed/",
+    "language": "en",
+    "weight": 3,
+    "tags": ["ai products", "industry"]
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "language": "en",
+    "weight": 4,
+    "tags": ["open source models", "ai infrastructure"]
+  },
+  {
+    "name": "NVIDIA Deep Learning",
+    "url": "https://blogs.nvidia.com/blog/category/deep-learning/feed/",
+    "language": "en",
+    "weight": 4,
+    "tags": ["chips", "compute", "ai infrastructure"]
+  },
+  {
+    "name": "arXiv cs.AI",
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "language": "en",
+    "weight": 2,
+    "tags": ["research"]
+  },
+  {
+    "name": "arXiv cs.CL",
+    "url": "https://rss.arxiv.org/rss/cs.CL",
+    "language": "en",
+    "weight": 2,
+    "tags": ["large models", "research"]
+  },
+  {
+    "name": "机器之心",
+    "url": "https://www.jiqizhixin.com/rss",
+    "language": "zh",
+    "weight": 4,
+    "tags": ["大模型", "人工智能", "研究"]
+  },
+  {
+    "name": "量子位",
+    "url": "https://www.qbitai.com/feed",
+    "language": "zh",
+    "weight": 4,
+    "tags": ["大模型", "机器人", "自动驾驶", "芯片"]
+  },
+  {
+    "name": "Synced Review",
+    "url": "https://syncedreview.com/feed/",
+    "language": "en",
+    "weight": 3,
+    "tags": ["research", "large models"]
+  }
+]
